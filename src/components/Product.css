@@ -1,0 +1,14 @@
+.prdimg{
+    height: 200px;
+    width: 200px;
+}
+.prdimg img{
+    height: 100%;
+    width:100%
+}
+.box{
+    margin: 15px;
+    box-shadow: 5px 5px 20px black ;
+    padding: 10px;
+}
+
